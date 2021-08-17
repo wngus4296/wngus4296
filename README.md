@@ -1,9 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwngus4296&count_bg=%2393B3B7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://www.instagram.com/zuuxian/"><img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zuuxian/"/></a><br/><br/>
 
-<div align=center>
+<div align=center> 
 
-## Hi there 👋
+## 👋 Hi there 👋
 I'm majoring in information security and department of software convergence.<br>
 I'm trying to find what I want to do and become an expert.<br/><br/>
 
