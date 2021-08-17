@@ -5,16 +5,12 @@
 ## 👩‍💻 I am... 👩‍💻
 Hi there 👋<br>
 I'm majoring in information security and department of software convergence.<br>
-I'm trying to find what I want to do and become an expert.  
+I'm trying to find what I want to do and become an expert.<br/><br/>
 
-<p>
-
-<a href="https://www.instagram.com/zuuxian/"><img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zuuxian/"/></a>  
-
-<p>
+<a href="https://www.instagram.com/zuuxian/"><img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zuuxian/"/></a><br/><br/>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=wngus4296&theme=dracula)](https://github.com/wngus4296)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wngus4296&layout=compact&theme=dracula)](https://github.com/wngus4296)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wngus4296&layout=compact&theme=dracula)](https://github.com/wngus4296)<br/><br/>
 
 
 ## 🛠 Tech Stack 🛠
@@ -24,13 +20,11 @@ I'm trying to find what I want to do and become an expert.
 ![icon](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![icon](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![icon](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![icon](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) <p>
+![icon](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)  
 ![icon](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![icon](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![icon](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white)
-![icon](https://img.shields.io/badge/Express.js-569A31?style=flat-square&logo=express&logoColor=white)  
-
-<p>
+![icon](https://img.shields.io/badge/Express.js-569A31?style=flat-square&logo=express&logoColor=white) <br/><br/>
 
 ## 🏅 Projects 🏅
 ### 2021
