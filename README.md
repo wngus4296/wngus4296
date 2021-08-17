@@ -3,8 +3,7 @@
 
 <div align=center>
 
-## 👩‍💻
-Hi there 👋<br>
+## Hi there 👋
 I'm majoring in information security and department of software convergence.<br>
 I'm trying to find what I want to do and become an expert.<br/><br/>
 
