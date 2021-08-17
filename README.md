@@ -1,4 +1,5 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwngus4296&count_bg=%2393B3B7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwngus4296&count_bg=%2393B3B7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://www.instagram.com/zuuxian/"><img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zuuxian/"/></a><br/><br/>
 
 <div align=center>
 
@@ -6,12 +7,6 @@
 Hi there 👋<br>
 I'm majoring in information security and department of software convergence.<br>
 I'm trying to find what I want to do and become an expert.<br/><br/>
-
-<a href="https://www.instagram.com/zuuxian/"><img src="https://img.shields.io/badge/Instagram-DD2A78?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zuuxian/"/></a><br/><br/>
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=wngus4296&theme=dracula)](https://github.com/wngus4296)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wngus4296&layout=compact&theme=dracula)](https://github.com/wngus4296)<br/><br/>
-
 
 ## 🛠 Tech Stack 🛠
 ![icon](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
@@ -25,6 +20,10 @@ I'm trying to find what I want to do and become an expert.<br/><br/>
 ![icon](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![icon](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white)
 ![icon](https://img.shields.io/badge/Express.js-569A31?style=flat-square&logo=express&logoColor=white) <br/><br/>
+
+## 🔌 Stats 🔌
+[![github stats](https://github-readme-stats.vercel.app/api?username=wngus4296&theme=dracula)](https://github.com/wngus4296)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wngus4296&layout=compact&theme=dracula)](https://github.com/wngus4296)<br/><br/>
 
 ## 🏅 Projects 🏅
 ### 2021
