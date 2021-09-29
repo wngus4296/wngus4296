@@ -6,7 +6,7 @@
 ## 👋 Hi there 👋
 I'm majoring in information security and department of software convergence.<br>
 I'm trying to find what I want to do and become an expert.<br>
-wngus4296@gmail.com<br/><br/>
+contact: wngus4296@gmail.com<br/><br/>
 
 ## 🛠 Tech Stack 🛠
 ![icon](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
