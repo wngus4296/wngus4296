@@ -23,8 +23,7 @@ contact: wngus4296@gmail.com<br/><br/>
 ![icon](https://img.shields.io/badge/Express.js-569A31?style=flat-square&logo=express&logoColor=white) <br/><br/>
 
 ## 🔌 Stats 🔌
-[![github stats](https://github-readme-stats.vercel.app/api?username=wngus4296&theme=dracula)](https://github.com/wngus4296)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wngus4296&layout=compact&theme=dracula)](https://github.com/wngus4296)<br/><br/>
+[![github stats](https://github-readme-stats.vercel.app/api?username=wngus4296&theme=dracula)](https://github.com/wngus4296)  <br/><br/>
 
 ## 🏅 Projects 🏅
 ### 2021
