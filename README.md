@@ -31,5 +31,6 @@ contact: wngus4296@gmail.com<br/>
 ### 2021
 ✔ [DooRiBon](https://github.com/TeamDooRiBon/DooRi-Server): 작은 움직임이 만드는 우리다운 여행 [Server Developer]  
 ✔ [고도의 전략](https://github.com/28th-SOPKATON/server): 내 인맥, 나는 MBTI로 관리한다. 이게 바로 고도의 전략 [Server Developer]
+✔ [솝말잇기](https://github.com/word-relay/word-relay-server): 솝트인을 위한 릴레이 신조어, 솝조어 생성기 [Server Developer]
 
 </div>
