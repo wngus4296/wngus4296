@@ -1,4 +1,5 @@
-##### ✉️ contact: wngus4296@gmail.com
+📩 contact - wngus4296@gmail.com
+
 ---
 
 <div align=left> 
