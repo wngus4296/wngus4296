@@ -1,13 +1,4 @@
----
-
-<div align=center>
-  <h3>
-    Byun Ju Hyeon<br>
-    변주현
-    </h3>
-  <h5>✉️ contact - wngus4296@gmail.com</h5>
-</div>
-
+##### ✉️ contact: wngus4296@gmail.com
 ---
 
 <div align=left> 
