@@ -1,5 +1,4 @@
-📩 contact - wngus4296@gmail.com <br>
-📚 blog - https://ju-hyeon.tistory.com/
+📩 contact - wngus4296@gmail.com
 
 ---
 
