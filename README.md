@@ -17,6 +17,7 @@
 
 > #### 2022
 * [나도선배](https://github.com/TeamNado-Sunbae/NadoSunbae-Server): 제2전공생을 위한 학과 후기, 전공 정보 공유 플랫폼 [Server Developer] <br>
+* [한(恨)도초과](https://github.com/SOPKATHON-12/Client-iOS): 내 ‘한’이 초과되는 순간 게임으로 풀어보는 내 마음속 '한'이야기 [iOS Developer] <br>
  
   
 ### 🔌 Stats
