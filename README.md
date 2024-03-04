@@ -20,9 +20,7 @@
 <br>
 
 ### Experience
-> 2024
 - [Nexters](https://teamnexters.com/) 24th iOS `2024.01 ~ 2024.03`
-> 2023
 - [Nexters](https://teamnexters.com/) 23th iOS `2023.07 ~ 2023.08`
 - [SOPT](https://www.sopt.org/) 30th iOS `2022.03 ~ 2022.07`
 - [SOPT](https://www.sopt.org/) 29th Server `2021.09 ~ 2022.01`
